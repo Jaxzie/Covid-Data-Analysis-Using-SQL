@@ -8,13 +8,13 @@
 
 In the SQL i have calculated following things
 
--- Select the Data we are going to using
---Total Cases and Total_deaths
---Total cases vs population
---Countries with highest infection rate by population
---Countries with highest Death rate by population
---Breaking down by Continent
---New ongoing cases
---total_population vs vaccinations
---total_population_vs_total_new_vaccination using "CTE"
---Views percentage_population_vaccinated
+1) Select the Data we are going to using
+2) Total Cases and Total_deaths
+3) Total cases vs population
+4) Countries with highest infection rate by population
+5) Countries with highest Death rate by population
+6) Breaking down by Continent
+7) New ongoing cases
+8)total_population vs vaccinations
+9) total_population_vs_total_new_vaccination using "CTE"
+10) Views percentage_population_vaccinated
